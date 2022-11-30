@@ -7,4 +7,4 @@ The Code Snippet Inserter displays the code snippet name for all available code 
 
 */
 
-#Source: https://learn.microsoft.com/en-us/visualstudio/ide/visual-csharp-code-snippets?view=vs-2022
+// Source: https://learn.microsoft.com/en-us/visualstudio/ide/visual-csharp-code-snippets?view=vs-2022
